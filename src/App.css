@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+
+.banner {
+  background-color: green;
+  min-height: 400px;
+}
+
+.banner__blue {
+  background-color: blue;
+}
+
+.banner__green {
+  background-color: green;
+}
+
+
